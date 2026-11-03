@@ -7,6 +7,6 @@ Explores the types of vehicles involved in fatal traffic crashes in the United S
 
 
 ## Files
-- app.R — Shiny app code
-- traffic_data.R — Data cleaning code
-- vehicles_clean.rds — Cleaned data
+- app.R - Shiny app code
+- traffic_data.R - Data cleaning code
+- vehicles_clean.rds - Cleaned data
