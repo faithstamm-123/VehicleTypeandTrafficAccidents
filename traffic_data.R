@@ -135,8 +135,6 @@ vehicles_clean$BODY_GROUP[
 # Save the cleaned data
 saveRDS(vehicles_clean, "vehicles_clean.rds")
 
-# Confirm that the data is ready
-print("Vehicle data is ready!")
 
 # Display the number of vehicles in each category
 print(table(vehicles_clean$BODY_GROUP))
